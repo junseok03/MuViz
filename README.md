@@ -23,7 +23,7 @@ We can select the mode by pressing the key.
 ## Mode 4: Rotating Galaxy
 <img width="1512" alt="Screenshot 2024-07-07 at 6 46 18 PM" src="https://github.com/junseok03/MuViz/assets/151435171/dbd03287-63f7-4e23-9737-cdc755965eb5">
 
-## Mode 5: Bouncing Circles
+## Mode 5: Bouncing Circle
 <img width="1512" alt="Screenshot 2024-07-07 at 6 46 56 PM" src="https://github.com/junseok03/MuViz/assets/151435171/abe32be3-7090-466b-aa37-3a07b327110b">
 
 ## Mode 6: Ridge Plot
